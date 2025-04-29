@@ -21,8 +21,11 @@ Be comfortable with modern tools such as Docker, GitHub Actions, or similar CI/C
 Key Highlights
 Hands-on GitHub Repository Management:
 Learn to initialize and structure a project repository, adhering to industry best practices.
+  
 
-Team Role Documentation:
+
+                                     Team Role
+
 Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
 
 Technology Stack Breakdown:
